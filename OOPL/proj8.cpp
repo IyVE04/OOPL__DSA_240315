@@ -1,3 +1,4 @@
+// inheritance.cpp
 #include <iostream>
 
 class Animal {
